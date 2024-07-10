@@ -1,0 +1,2 @@
+# KubeCtlForminikube-
+bashscriptForMiniKUbe
